@@ -2,7 +2,7 @@
 ### 📖 Introduction
 This study proposes Long Chain-of-Thought for Drug Repositioning Knowledge Extraction (LCoDR-KE), a lightweight and domain-specific framework to enhance LLMs’ accuracy and adaptability in extracting structured biomedical knowledge for drug repositioning. The framework combines:
 - Long chain-of-thought prompting for step-wise reasoning
-- Supervised fine-tuning (SFT) and reinforcement learning (GPRO)
+- Supervised fine-tuning (SFT) and reinforcement learning (GRPO)
 - A dual-level reward mechanism (accuracy reward + structural format reward)
 - A high-quality drug repositioning corpus (DrugReC) curated from PubMed
 Together, these components significantly improve biomedical knowledge extraction, supporting novel indication discovery and drug repositioning research.
